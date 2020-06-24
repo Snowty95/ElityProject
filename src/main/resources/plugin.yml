@@ -1,0 +1,6 @@
+name: PoofParty
+version: 1.0.1
+author: Snowtyy
+main: fr.britannia.poof.Poof
+commands:
+  poof:
